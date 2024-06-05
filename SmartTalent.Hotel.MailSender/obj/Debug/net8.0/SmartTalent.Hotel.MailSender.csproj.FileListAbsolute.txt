@@ -1,0 +1,11 @@
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\bin\Debug\net8.0\SmartTalent.Hotel.MailSender.deps.json
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\bin\Debug\net8.0\SmartTalent.Hotel.MailSender.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\bin\Debug\net8.0\SmartTalent.Hotel.MailSender.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.AssemblyInfoInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.AssemblyInfo.cs
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.csproj.CoreCompileInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\refint\SmartTalent.Hotel.MailSender.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\SmartTalent.Hotel.MailSender.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.MailSender\obj\Debug\net8.0\ref\SmartTalent.Hotel.MailSender.dll

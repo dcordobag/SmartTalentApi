@@ -1,0 +1,12 @@
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\bin\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.deps.json
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\bin\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\bin\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.AssemblyInfo.cs
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\refint\SmartTalent.Hotel.DataAccessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.DataAccess\obj\Debug\net8.0\ref\SmartTalent.Hotel.DataAccessLayer.dll

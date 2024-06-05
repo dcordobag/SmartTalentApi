@@ -1,0 +1,15 @@
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\bin\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.deps.json
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\bin\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\bin\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\bin\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\bin\Debug\net8.0\SmartTalent.Hotel.DataAccessLayer.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.AssemblyInfo.cs
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTal.055F08BC.Up2Date
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\refint\SmartTalent.Hotel.BusinessLayer.dll
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\SmartTalent.Hotel.BusinessLayer.pdb
+C:\Users\jhack\source\repos\SmartTalent.Hotel.Api\SmartTalent.Hotel.BusinessLayer\obj\Debug\net8.0\ref\SmartTalent.Hotel.BusinessLayer.dll
